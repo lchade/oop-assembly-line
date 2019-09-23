@@ -6,7 +6,8 @@
 - project (supplied)
 - AssemblyLine (supplied)
 - Utilities
-<p>The Utilities module is a support module that contains the functionality that is common across the system. All objects in the system parse string data in the same way, use the same delimiter and report data fields in tabular format.</p>
+
+The Utilities module is a support module that contains the functionality that is common across the system. All objects in the system parse string data in the same way, use the same delimiter and report data fields in tabular format.
 
 The Utilities class for extracting tokens from a string, which consists of a set of fields separated by a specified delimiter and determining a field width that is sufficiently large to accommodate the tokens for a specified field. The field width is to be used to construct the output tables for the project. Tokens in a string are separated by one delimiter character
 
