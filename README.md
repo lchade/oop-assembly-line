@@ -11,9 +11,9 @@ The project simulates an assembly line that fills customer orders from inventory
 
 ## PROJECT MILESTONES
 
-1.	Milestone 1 – Inventory Item Sets and Project Utilities – July 10 23:59
-2.	Milestone 2 – Customer Orders – July 19 23:59
-3.	Milestone 3 – Stations and Line Manager – August 2 23:59
+1.	Milestone 1 – Inventory Item Sets and Project Utilities
+2.	Milestone 2 – Customer Orders
+3.	Milestone 3 – Stations and Line Manager
 
 
 ## C++ KNOWLEDGE COVERAGE
