@@ -7,13 +7,14 @@ The project simulates an assembly line that fills customer orders from inventory
 
 ## SIMULATOR CLASSESS
 
+![image](https://github.com/lchade/oop-assembly-line/blob/master/project-overview.jpg)
 
 
 ## PROJECT MILESTONES
 
-1.	Milestone 1 – Inventory Item Sets and Project Utilities
-2.	Milestone 2 – Customer Orders
-3.	Milestone 3 – Stations and Line Manager
+- [x]	Milestone 1 – Inventory Item Sets and Project Utilities
+- [x]	Milestone 2 – Customer Orders
+- [x]	Milestone 3 – Stations and Line Manager
 
 
 ## C++ KNOWLEDGE COVERAGE
