@@ -1,4 +1,4 @@
-# Milestone 1 Specifications
+# Milestone 2 Specifications
 ###### Assembly Line - Customer Orders
 
 ## Modules
